@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yuyanMaggieliu
+- 👋 Hi, I’m @yuyanMaggieliu,  PKU undergraduate majoring Bioinformatics 
 - 👀 I’m interested in almost everything!
 - 🌱 I’m currently learning python,statistic,finance and machine learning
 - 💞️ I’m looking to collaborate on machine learning and data analysis.
