@@ -2,7 +2,7 @@
 - 👀 I’m interested in almost everything!
 - 🌱 I’m currently learning python,statistic,finance and machine learning
 - 💞️ I’m looking to collaborate on machine learning and data analysis.
-- 📫 How to reach me :liuyuayan@pku.edu.cn or yuyanmaggieliu@gmail.com
+
 
 <!---
 yuyanMaggieliu/yuyanMaggieliu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
